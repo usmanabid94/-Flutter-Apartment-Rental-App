@@ -28,7 +28,7 @@ A modern apartment rental app built with Flutter, featuring CRUD operations for 
 ### Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-repo/flutter-apartment-rental-app.git
+   git clone https://github.com/usmanabid94/-Flutter-Apartment-Rental-App.git
    cd flutter-apartment-rental-app
    ```  
 2. Install dependencies:  
@@ -46,10 +46,7 @@ flutter run
 
 ---
 
-## Screenshots  
-_Add screenshots showcasing the CRUD operations, chat feature, and map integration._  
 
----
 
 ## Contributing  
 Contributions are welcome! Feel free to open issues or submit pull requests.  
