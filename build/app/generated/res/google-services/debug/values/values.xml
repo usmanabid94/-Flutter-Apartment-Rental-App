@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">229055423643</string>
+    <string name="google_api_key" translatable="false">AIzaSyDwYilHXKKry1D_AkAnxMMCK5HXuQujMsA</string>
+    <string name="google_app_id" translatable="false">1:229055423643:android:da2a91771d397ec62f123e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwYilHXKKry1D_AkAnxMMCK5HXuQujMsA</string>
+    <string name="google_storage_bucket" translatable="false">apartment-rentals-11793.firebasestorage.app</string>
+    <string name="project_id" translatable="false">apartment-rentals-11793</string>
+</resources>
